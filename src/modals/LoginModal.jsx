@@ -67,7 +67,7 @@ export const LoginModal = () => {
         }}
       >
         <div className="signup-form-heading">
-          <h2 className="signup-form-heading-text">Sign in to Alice Movies</h2>
+          <h2 className="signup-form-heading-text">Sign in to Movie Mate</h2>
           <button
             type="button"
             className="btn-form-exit"

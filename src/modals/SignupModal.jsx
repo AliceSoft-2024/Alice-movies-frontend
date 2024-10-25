@@ -82,7 +82,7 @@ export const SignupModal = () => {
       <form onSubmit={(e) => handleDataInsert(e)}>
         <div className="signup-form-heading">
           <h2 className="signup-form-heading-text">
-            Create a Alice Movies Account
+            Create a Movie Mate Account
           </h2>
           <button
             type="button"
